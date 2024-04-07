@@ -1,0 +1,14 @@
+C:\Users\timur\source\repos\EffectiveMobileModelDTO\bin\Debug\EffectiveMobileModelDTO.exe.config
+C:\Users\timur\source\repos\EffectiveMobileModelDTO\bin\Debug\EffectiveMobileModelDTO.exe
+C:\Users\timur\source\repos\EffectiveMobileModelDTO\bin\Debug\EffectiveMobileModelDTO.pdb
+C:\Users\timur\source\repos\EffectiveMobileModelDTO\obj\Debug\EffectiveMobileModelDTO.csproj.AssemblyReference.cache
+C:\Users\timur\source\repos\EffectiveMobileModelDTO\obj\Debug\EffectiveMobileModelDTO.csproj.CoreCompileInputs.cache
+C:\Users\timur\source\repos\EffectiveMobileModelDTO\obj\Debug\EffectiveMobileModelDTO.exe
+C:\Users\timur\source\repos\EffectiveMobileModelDTO\obj\Debug\EffectiveMobileModelDTO.pdb
+C:\Users\timur\source\repos\TestTask\EffectiveMobileModelDTO\bin\Debug\EffectiveMobileModelDTO.exe.config
+C:\Users\timur\source\repos\TestTask\EffectiveMobileModelDTO\bin\Debug\EffectiveMobileModelDTO.exe
+C:\Users\timur\source\repos\TestTask\EffectiveMobileModelDTO\bin\Debug\EffectiveMobileModelDTO.pdb
+C:\Users\timur\source\repos\TestTask\EffectiveMobileModelDTO\obj\Debug\EffectiveMobileModelDTO.csproj.AssemblyReference.cache
+C:\Users\timur\source\repos\TestTask\EffectiveMobileModelDTO\obj\Debug\EffectiveMobileModelDTO.csproj.CoreCompileInputs.cache
+C:\Users\timur\source\repos\TestTask\EffectiveMobileModelDTO\obj\Debug\EffectiveMobileModelDTO.exe
+C:\Users\timur\source\repos\TestTask\EffectiveMobileModelDTO\obj\Debug\EffectiveMobileModelDTO.pdb
